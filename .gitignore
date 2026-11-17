@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.tmp
+*.lock
+*.corrupt
+alarms.json
+.venv/
+venv/
+.idea/
+.vscode/
